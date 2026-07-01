@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:nikhilsharma200309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nikhil-sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-sharma-5a006824a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Nikhil991127"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -41,11 +41,13 @@
 
 ### 🚀 Featured Projects
 
-#### 🎥 [MeetSphere — Full-Stack Video Conferencing Platform](https://github.com/Nikhil991127/MeetSphere)
+#### 🎥 MeetSphere — Full-Stack Video Conferencing Platform
+[Frontend](https://github.com/Nikhil991127/meetsphere-frontend) · [Backend](https://github.com/Nikhil991127/meetsphere-backend)
 Production-grade, browser-based video conferencing app with multi-participant HD video, screen sharing, real-time chat, and live captions (Web Speech API). Diagnosed and fixed a WebRTC race condition causing stream corruption. Integrated AI-generated meeting summaries (Groq/LLaMA 3.1), smart chat replies, and face-recognition attendance tracking.
 `React.js` `Node.js` `Express.js` `WebRTC` `Socket.IO` `MongoDB` `Groq AI`
 
-#### 📈 [FluxTrade — Stock Trading Simulation & Prediction Platform](https://github.com/Nikhil991127/FluxTrade)
+#### 📈 FluxTrade — Stock Trading Simulation & Prediction Platform
+[Frontend](https://github.com/Nikhil991127/fluxtrade-frontend) · [Backend](https://github.com/Nikhil991127/fluxtrade-backend) · [Dashboard](https://github.com/Nikhil991127/fluxtrade-dashboard)
 MERN stock-trading simulator with live dashboard, watchlist, order management, and real-time portfolio tracking. Built a stock-price prediction module using Prophet and Linear Regression on Yahoo Finance data, integrated into the Node.js backend via child processes.
 `MERN Stack` `Python` `Prophet` `Linear Regression` `Yahoo Finance API`
 
