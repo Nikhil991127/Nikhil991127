@@ -58,11 +58,6 @@ Random Forest classifier for Chronic Kidney Disease detection on a 400-record cl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikhil991127&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil991127&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil991127&hide_border=true" />
 </p>
 
